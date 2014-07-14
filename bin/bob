@@ -1,0 +1,2 @@
+#!/bin/sh
+python -m ctk.cli bob bob $*
